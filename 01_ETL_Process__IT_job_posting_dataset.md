@@ -1,6 +1,6 @@
 # ETL Process
 
-##Etapes
+## Etapes
 
 The ETL process (Extract, Transform, Load) is fundamental in data management and consists of three main stages:
 
