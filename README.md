@@ -24,12 +24,13 @@ Through this analysis, we aimed to identify the most in-demand roles, required s
 
 ## 🛠️ Tools & Technologies Used
 
-- **Python**: Data cleaning, preprocessing, and exploratory data analysis.
-- **Pandas, NumPy**: Data manipulation and numeric analysis.
-- **Matplotlib, Seaborn**: Data visualization for exploratory analysis.
-- **Power BI**: Final dashboard creation for data presentation.
-- **Jupyter Notebook**: Analysis and documentation of the workflow.
-- **Git & GitHub**: Version control and project sharing.
+- CSV File Format: Raw dataset containing five years of data science job postings.
+
+- Power Query: Used for data cleaning and transformation directly within Power BI.
+
+- Power BI: For data modeling, analysis, and building the final interactive dashboard.
+
+- Microsoft Excel (optional to list): If you did any initial exploration or inspection outside Power BI.
 
 ---
 
