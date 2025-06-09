@@ -30,7 +30,7 @@ Through this analysis, we aimed to identify the most in-demand roles, required s
 
 - Power BI: For data modeling, analysis, and building the final interactive dashboard.
 
-- Microsoft Excel (optional to list): If you did any initial exploration or inspection outside Power BI.
+- Microsoft Excel (optional to list): to add any  additional exploration or inspection outside Power BI.
 
 ---
 
