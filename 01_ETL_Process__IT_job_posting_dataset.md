@@ -89,11 +89,9 @@ Finally, the transformed data is loaded into its final destination.<br>
 
 **Goal:** Make the data available for analysis, visualization, or operational use.
 
-Here’s a polished version of that sentence:
+- In this case, the clean file will be loaded into a dashboard, such as Power BI.
 
-**"In this case, the clean file will be loaded into a dashboard, such as Power BI."**
 
-Let me know if you need it in a more formal, technical, or simplified style.
 
 
 
