@@ -20,9 +20,10 @@ This stage involves obtaining data from one or more sources.<br>
 
 
 
-![PowerQuery_DaxFormula](https://github.com/user-attachments/assets/235343ec-448c-4350-9c35-844da8c00e18)
 
 
+
+![Extract_Process_CSV_File](https://github.com/user-attachments/assets/b475e800-d85b-43d2-bf47-72d7eb8326b4)
 
 
 
@@ -55,6 +56,17 @@ Some common tasks include in this stage are:
 - Filtering out unnecessary data
 
 - Combining multiple sources (joins)
+
+
+
+
+
+
+
+
+
+![PowerQuery_DaxFormula](https://github.com/user-attachments/assets/235343ec-448c-4350-9c35-844da8c00e18)
+
 
 
 
