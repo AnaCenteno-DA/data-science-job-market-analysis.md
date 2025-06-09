@@ -95,6 +95,22 @@ Some common tasks include in this stage are:
 
 
 
+![PowerQuery_DaxFormula01](https://github.com/user-attachments/assets/fc1aba1d-00e1-408a-8de9-f230d4e947c0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![PowerQuery_DaxFormula02](https://github.com/user-attachments/assets/3f2584b3-e67c-4acd-96d0-4e65af025a3b)
 
 
 
@@ -124,28 +140,17 @@ Finally, the transformed data is loaded into its final destination.<br>
 
 
 
+  
+
+
+
+
+![Starting_Visualizations](https://github.com/user-attachments/assets/7082e05f-feb8-454f-a33d-009e80814267)
 
 
 
 
 
-
-![PowerQuery_DaxFormula01](https://github.com/user-attachments/assets/fc1aba1d-00e1-408a-8de9-f230d4e947c0)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![PowerQuery_DaxFormula02](https://github.com/user-attachments/assets/3f2584b3-e67c-4acd-96d0-4e65af025a3b)
 
 
 
