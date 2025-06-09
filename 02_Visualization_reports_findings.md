@@ -1,6 +1,6 @@
 # Stories in Data
 
-## Type of Visualisations
+## Type of Visualizations
 
 
 
