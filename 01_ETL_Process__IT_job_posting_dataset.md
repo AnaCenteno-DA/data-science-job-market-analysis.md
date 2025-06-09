@@ -20,6 +20,7 @@ This stage involves obtaining data from one or more sources.<br>
 
 
 
+![PowerQuery_DaxFormula](https://github.com/user-attachments/assets/235343ec-448c-4350-9c35-844da8c00e18)
 
 
 
@@ -67,6 +68,7 @@ Some common tasks include in this stage are:
 
 
 
+![PowerQuery_DaxFormula01](https://github.com/user-attachments/assets/fc1aba1d-00e1-408a-8de9-f230d4e947c0)
 
 
 
@@ -90,6 +92,47 @@ Finally, the transformed data is loaded into its final destination.<br>
 **Goal:** Make the data available for analysis, visualization, or operational use.
 
 - In this case, the clean file will be loaded into a dashboard, such as Power BI.
+
+
+
+
+
+
+
+
+
+![PowerQuery_DaxFormula02](https://github.com/user-attachments/assets/3f2584b3-e67c-4acd-96d0-4e65af025a3b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
