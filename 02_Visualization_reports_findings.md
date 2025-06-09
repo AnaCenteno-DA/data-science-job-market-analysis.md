@@ -1,7 +1,46 @@
+# Stories in Data
+
+## Type of Visualisations
 
 
 
 
 
 
-##3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Exploratory Findings 
+
+
+
+
+
