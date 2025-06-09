@@ -1,7 +1,3 @@
-# data-science-job-market-analysis.md
-Data science job market analysis using job posting data and Power BI dashboard insights.
-
-
 # 📊 Data Science Job Market Analysis - MCIT-Data Project
 
 ## 📝 Project Summary
