@@ -95,6 +95,9 @@ Next, some data was separated into individual columns, such as Month and Year. A
 
 
 
+The use of Power Query was essential, as it allowed raw data to be transformed into clean, structured, and analysis-ready information. It was a key tool for enabling efficient, repeatable processes within any Business Intelligence workflow
+
+
 
 
 
