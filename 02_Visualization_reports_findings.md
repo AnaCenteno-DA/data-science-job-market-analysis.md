@@ -1,6 +1,6 @@
 # Stories in Data
 
-## 4.Visualizations
+### 4.Visualisations
 This stage is one of the most interesting, as it involves creating visualizations and analyzing the data. Various datasets will be presented to highlight KPI performance, parameter trends over time, and key statistics. These insights can provide valuable information to support decision-making within the company, helping to shape strategies or adjust plans aimed at improving processes or addressing areas of concern based on the findings. 
 
 ## Type of Visualizations
@@ -45,7 +45,7 @@ Visual Page 2 includes word clouds, a map, tables, and a boxplot to explore corr
 
 
 
-## 5.Exploratory Findings 
+### 5.Exploratory Findings 
 
 
 
