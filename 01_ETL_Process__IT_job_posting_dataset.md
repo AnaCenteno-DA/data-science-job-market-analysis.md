@@ -83,7 +83,7 @@ The following image shows the job postings dataset, including various columns wi
 
 
 
-
+Next, some data was separated into individual columns, such as Month and Year. All of this was done within the Power Query environment, which is part of Power BI. Formulas were created using the DAX tool, and KPIs were calculated, including totals, averages, maximums, and minimums. Words like 'employees' were removed from the company size column to clean the dataset as much as possible, making it ready for transformation.
 
 
 
