@@ -48,7 +48,15 @@ Visual Page 2 includes word clouds, a map, tables, and a boxplot to explore corr
 ### 5.Exploratory Findings 
 
 
+Data Storytelling: Job Postings in the Data Science Field
 
+The analysis reveals that the average maximum salary offered in the job postings reached $9.87K, while the lowest average salary was $7.29K. On average, each job posting received about 10 applicants, indicating a moderate level of competition per position.
+
+From 2017 to 2021, there was a noticeable increase in the number of recruiting companies specializing in the Data Science field, reflecting the growing demand for professionals in this area.
+
+In terms of company size, the majority of hires were made by large IT companies with 1,000 to 5,000 employees, accounting for 40.58% of the total. In contrast, smaller companies with 501 to 1,000 employees accounted for only 0.88%, showing a clear hiring preference toward larger organizations.
+
+When examining job levels, the distribution is heavily skewed toward the Mid-Senior level, which makes up 90% of the postings. Meanwhile, Executive-level positions represent only 10%, highlighting that most opportunities are geared toward professionals with intermediate experience rather than top-level executives.
 
 
 
