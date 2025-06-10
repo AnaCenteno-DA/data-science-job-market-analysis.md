@@ -16,7 +16,7 @@ For this project the following type of charts were used:
 
   
 
-
+On Visual Page 1, several visualizations are displayed on the dashboard. These provide dynamic, clear, and precise information using cards, slicers, and various charts, including donut, line, scatter, bar, and column charts.
 
 
 ![Dashboard visual1](https://github.com/user-attachments/assets/37e9edff-ac4e-4451-a97a-113e6eb1f455)
@@ -25,7 +25,7 @@ For this project the following type of charts were used:
 
 
 
-
+Visual Page 2 includes word clouds, a map, tables, and a boxplot to explore correlations between two variables, using the provided dataset of job posting careers. 
 
 
 
@@ -45,6 +45,9 @@ For this project the following type of charts were used:
 
 
 ## Exploratory Findings 
+
+
+
 
 
 
