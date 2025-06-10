@@ -1,5 +1,8 @@
 # ETL Process
 
+## Introduction to the ETL Process
+ETL (Extract, Transform, Load) is the process of collecting raw data, cleaning and structuring it, and then loading it into a system for analysis. It ensures data quality and enables the creation of accurate and meaningful visualizations.
+
 ## Etapes
 
 The ETL process (Extract, Transform, Load) is fundamental in data management and consists of three main stages:
