@@ -150,7 +150,7 @@ Finally, the transformed data is loaded into its final destination.<br>
 
 
 
-For this part, the visualizations where elaborated with the loaded and cleaned dataset of the Job postings for the careers related to the domain for the Data Science. 
+For this section, the visualizations were created using the loaded and cleaned dataset of job postings related to careers in the field of Data Science.
 
 
 
