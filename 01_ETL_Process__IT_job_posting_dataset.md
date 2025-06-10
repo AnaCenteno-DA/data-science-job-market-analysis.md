@@ -59,6 +59,9 @@ Some common tasks include in this stage are:
 
 
 
+The following image shows the job postings dataset, including various columns with data—some of which are complete, while others contain blank cells.
+
+
 
 
 
@@ -104,7 +107,7 @@ Some common tasks include in this stage are:
 
 
 
-
+There were a large number of blank cells. In this case, the null fields were handled by replacing text fields with 'No data' and numeric fields with a value of zero (0).
 
 
 
