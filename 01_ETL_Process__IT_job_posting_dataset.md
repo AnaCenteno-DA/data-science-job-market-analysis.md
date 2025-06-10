@@ -95,20 +95,6 @@ Next, some data was separated into individual columns, such as Month and Year. A
 
 
 
-The use of Power Query was essential, as it allowed raw data to be transformed into clean, structured, and analysis-ready information. It was a key tool for enabling efficient, repeatable processes within any Business Intelligence workflow
-
-
-
-
-
-![PowerQuery_DaxFormula01](https://github.com/user-attachments/assets/fc1aba1d-00e1-408a-8de9-f230d4e947c0)
-
-
-
-
-
-
-
 
 There were a large number of blank cells. In this case, the null fields were handled by replacing text fields with 'No data' and numeric fields with a value of zero (0).
 
@@ -120,6 +106,17 @@ There were a large number of blank cells. In this case, the null fields were han
 
 
 
+
+
+
+
+The use of Power Query was essential, as it allowed raw data to be transformed into clean, structured, and analysis-ready information. It was a key tool for enabling efficient, repeatable processes within any Business Intelligence workflow
+
+
+
+
+
+![PowerQuery_DaxFormula01](https://github.com/user-attachments/assets/fc1aba1d-00e1-408a-8de9-f230d4e947c0)
 
 
 
