@@ -1,5 +1,10 @@
 # 📊 Data Science Job Market Analysis - MCIT-Data Project
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Technologies](https://img.shields.io/badge/Technologies-SQL%20%7C%20Excel-blue)
+![Language](https://img.shields.io/badge/Language-English-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ## 📝 Project Summary
 
 This project was completed in collaboration with **MCIT-Data**, a recruiting firm focused on the data science industry. The goal was to explore a comprehensive dataset of job postings and uncover valuable trends in the job market over the span of five years. The dataset used for this project is fictitious but modeled to reflect realistic patterns and structures commonly found in industry job boards.
