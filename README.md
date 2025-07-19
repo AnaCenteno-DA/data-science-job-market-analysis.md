@@ -1,7 +1,7 @@
 # 📊 Data Science Job Market Analysis - MCIT-Data Project
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Technologies](https://img.shields.io/badge/Technologies-SQL%20%7C%20Excel-blue)
+![Technologies](https://img.shields.io/badge/Technologies-PowerBI%20%7C%20PowerQuery-blue)
 ![Language](https://img.shields.io/badge/Language-English-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
